@@ -1,0 +1,179 @@
+test	asktest
+what time is it	asktime
+what is the time now	asktime
+tell me the time	asktime
+do you know the time	asktime
+could you tell me the time	asktime
+what day is today	askdate
+what is the date of today	askdate
+what is the date	askdate
+tell me the date of now	askdate
+what is the day today	askdate
+cpu temperature	askcputemp
+what is the temperature of the system	askcputemp
+what is the cpu temperature	askcputemp
+What temperature does the system is operating	askcputemp
+self shutdown	askexit
+shutdown the system	askexit
+shutdown the program	askexit
+closure protocol	askexit
+protocol 000	askexit
+close program	askexit
+close system	askexit
+end system	askexit
+end program	askexit
+shutdown	askexit
+good bye	askexit
+flip a coin	askcoin
+heads or tails	askcoin
+show the command list at the shell	askcommandlist
+show the command list	askcommandlist
+show me the command list at the shell	askcommandlist
+show me the command list	askcommandlist
+protocol 001	askcommandlist
+what is my name	askname
+what's my name	askname
+do you know my name	askname
+tell me my name	askname
+tell me the name of your current master	askname
+how can you called me	askname
+calculation mode	askcalcmode
+inicialize calculation mode	askcalcmode
+start calculation mode	askcalcmode
+math mode	askcalcmode
+inicialize math mode	askcalcmode
+start math mode	askcalcmode
+can you prove your self aware	askselfcons
+can you prove your self consciousness	askselfcons
+good morning dave	askgmorning
+how's the weather	askweatherlocal
+how is the weather	askweatherlocal
+how's the weather today	askweatherlocal
+how is the weather today	askweatherlocal
+tell me about the weather	askweatherlocal
+tell me about the weather today	askweatherlocal
+how the weather looks today	askweatherlocal
+how the weather looks	askweatherlocal
+tell the weather	askweatherlocal
+tell me the weather	askweatherlocal
+weather	askweatherlocal
+should i take an umbrella today	askumbrella
+should i take an umbrella	askumbrella
+it will rain today	askumbrella
+who created you	askcreator
+who raised you	askcreator
+who invented you	askcreator
+who programed you	askcreator
+you was creatad by who	askcreator
+you was raised by who	askcreator
+you was invented by who	askcreator
+you was programed by who	askcreator
+repeat after me	askrepetition
+repetition mode	askrepetition
+repeat me	askrepetition
+who are you	askaboutme
+tell me about you	askaboutme
+tell me your story	askaboutme
+what is dave	askaboutme
+who is dave	askaboutme
+who's dave	askaboutme
+let's play rock paper scissors	askplayrps
+rock paper scissors	askplayrps
+play rock paper scissors	askplayrps
+send a email for me	asksendmail
+send a mail for me	asksendmail
+send mail mode	asksendmail
+send mail	asksendmail
+send email	asksendmail
+mail mode	asksendmail
+send mail for me	asksendmail
+send email for me	asksendmail
+send me a note	asknote
+take a note for me	asknote
+take a note	asknote
+set a timer	asktimer
+set a timer for me	asktimer
+turn on my living room	asklivingroomon
+turn on the living room	asklivingroomon
+turn my living room on	asklivingroomon
+living room on	asklivingroomon
+turn on the light of my living room	asklivingroomon
+turn on the light of living room	asklivingroomon
+turn on my bedroom	askbedroomon
+turn on the bedroom	askbedroomon
+turn my bedroom on	askbedroomon
+bedroom on	askbedroomon
+turn on the light of my bedroom	askbedroomon
+turn on the light of bedroom	askbedroomon
+turn on my kitchen	askkitchenon
+turn on the kitchen	askkitchenon
+turn my kitchen on	askkitchenon
+kitchen on	askkitchenon
+turn on the light of my kitchen	askkitchenon
+turn on the light of kitchen	askkitchenon
+turn on my hall	askhallon
+turn on the hall	askhallon
+turn my hall on	askhallon
+hall on	askhallon
+turn on the light of my hall	askhallon
+turn on the light of hall	askhallon
+turn on my outside place	askoutsideon
+turn outside on	askoutsideon
+outside on	askoutsideon
+turn on the light of outside	askoutsideon
+turn off my living room	asklivingroomoff
+turn off the living room	asklivingroomoff
+turn my living room off	asklivingroomoff
+living room off	asklivingroomoff
+turn off the light of my living room	asklivingroomoff
+turn off the light of living room	asklivingroomoff
+turn off my bedroom	askbedroomoff
+turn off the bedroom	askbedroomoff
+turn my bedroom off	askbedroomoff
+bedroom off	askbedroomoff
+turn off the light of my bedroom	askbedroomoff
+turn off the light of bedroom	askbedroomoff
+turn off my kitchen	askkitchenoff
+turn off the kitchen	askkitchenoff
+turn my kitchen off	askkitchenoff
+kitchen off	askkitchenoff
+turn off the light of my kitchen	askkitchenoff
+turn off the light of kitchen	askkitchenoff
+turn off my hall	askhalloff
+turn off the hall	askhalloff
+turn my hall off	askhalloff
+hall off	askhalloff
+turn off the light of my hall	askhalloff
+turn off the light of hall	askhalloff
+turn off my outside place	askoutsideoff
+turn outside off	askoutsideoff
+outside off	askoutsideoff
+turn off the light of outside	askoutsideoff
+turn all lights on	askalllightson
+turn on all the lights	askalllightson
+all the lights on	askalllightson
+turn all lights off	askalllightsoff
+turn off all the lights	askalllightsoff
+all the lights off	askalllightsoff
+create a new event	asknewevent
+mark a new event	asknewevent
+new event	asknewevent
+set a new event	asknewevent
+set new event	asknewevent
+create new event	asknewevent
+mark new event	asknewevent
+learn mode	asklmode
+inicilaize learn mode	asklmode
+start learn mode	asklmode
+restart	askrestart
+restart program	askrestart
+restart system	askrestart
+protocol 002	askrestart
+create new command	asknewcmd
+new command	asknewcmd
+new cmd	asknewcmd
+create new cmd	asknewcmd
+create command	asknewcmd
+create cmd	asknewcmd
+create a new cmd	asknewcmd
+create a new command	asknewcmd

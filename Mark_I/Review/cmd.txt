@@ -1,0 +1,24 @@
+what time is it	asktime
+what is the time now	asktime
+tell me the time	asktime
+do you know the time	asktime
+could you tell me the time	asktime
+what day is today	askdate
+what is the date of today	askdate
+what is the date	askdate
+tell me the date of now	askdate
+what is the day today	askdate
+cpu temperature	askcputemp
+what is the temperature of the system	askcputemp
+what is the cpu temperature	askcputemp
+What temperature does the system is operating	askcputemp
+self shutdown	askexit
+shutdown the system	askexit
+shutdown the program	askexit
+closure protocol	askexit
+protocol 000	askexit
+close program	askexit
+close system	askexit
+end system	askexit
+end program	askexit
+shutdown	askexit
