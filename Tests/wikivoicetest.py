@@ -1,5 +1,7 @@
 import wikipedia # módulo do Wikipédia
 wikipedia.set_lang('en') # Define lingua da pesquisa pelo wikipedia
+
+
 def get_wiki(text):
     result = None
     results = None
