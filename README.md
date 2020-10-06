@@ -23,5 +23,5 @@ Digital Assistant Virtually Emulated - It's a simple chatbot that works on a ras
 
 1. Clone this repo using `git clone https://github.com/yuri-almeid/DAVE.git`
 2. Move yourself to the appropriate directory: `cd Mark_III`
-3. Run `python main.py` to start the mobile app.
+3. Run `python main.py` to start
 
