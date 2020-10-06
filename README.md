@@ -2,7 +2,7 @@
 
 ---
 
-Digital Assistant Virtually Emulated
+Digital Assistant Virtually Emulated - It's a simple chatbot that works on a raspberry pi and can answer a lot of questions.
 
 [![Watch the video](https://j.gifs.com/D1gODA.gif)](https://www.youtube.com/watch?v=ydsc-WqjYlQ)
 
